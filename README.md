@@ -2,8 +2,16 @@
 
 Simple node.js app that servers "hello world"
 
-Great for testing simple deployments to the cloud
+Create account on aws
 
-## Run It
+Launch an EC2 instance
 
-`npm start`
+SSH into your instance
+
+Install Node.js
+
+Install Git and clone repository from GitHub
+
+Start the node.js app
+
+Keep App running using Pm2
